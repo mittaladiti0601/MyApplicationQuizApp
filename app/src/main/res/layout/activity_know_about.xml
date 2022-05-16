@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/know_about"
+    tools:context=".KnowAbout">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="What is Introspection"
+        android:textColor="@color/white"
+        android:id="@+id/what_is"
+        android:textSize="35dp"
+        android:textStyle="bold"
+        android:layout_margin="25dp"
+        android:gravity="center"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/introspection_can_be_practiced_both_as_an_informal_reflection_process_and_a_formal_experimental_approach_and_the_two_have_different_definitions_still_both_processes_can_be_undertaken_by_anyone_with_curiosity_and_determination_cherry_2016_the_informal_reflection_process_can_be_defined_as_examining_one_s_own_internal_thoughts_and_feelings_and_reflecting_on_what_they_mean_the_process_can_be_focused_on_either_one_s_current_mental_experience_or_mental_experiences_from_the_very_recent_past_the_formal_experimental_technique_is_a_more_objective_and_standardized_version_of_this_in_which_people_train_themselves_to_carefully_analyze_the_contents_of_their_own_thoughts_in_a_way_that_s_as_unbiased_as_possible_the_original_idea_of_introspection_was_developed_by_wilhelm_wundt_in_the_late_1800s_mcleod_2008_wundt_focused_on_three_areas_of_mental_functioning_thoughts_images_and_feelings_wundt_s_work_eventually_led_to_the_current_work_on_perceptual_processes_and_the_establishment_of_the_field_of_cognitive_psychology"
+        android:textColor="@color/black"
+        android:textSize="18dp"
+        android:layout_below="@+id/what_is"
+        android:textStyle="bold"
+        android:layout_margin="30dp"
+        android:gravity="center"
+        android:justificationMode="inter_word"/>
+
+</RelativeLayout>

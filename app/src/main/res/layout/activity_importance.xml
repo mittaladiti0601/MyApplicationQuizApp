@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/importance"
+    tools:context=".importance">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="What is it's importance?"
+        android:textColor="@color/black"
+        android:id="@+id/importance"
+        android:textSize="35dp"
+        android:textStyle="bold"
+        android:layout_margin="25dp"
+        android:gravity="center"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:text="@string/so_why_is_introspection_important_researchers_have_shown_that_we_think_more_than_50_000_thoughts_per_day_of_which_more_than_half_are_negative_and_more_than_90_are_just_repeats_from_the_day_before_wood_2013_if_you_don_t_make_the_time_and_effort_to_refocus_your_mind_on_the_positive_through_introspection_you_won_t_give_yourself_the_opportunity_to_grow_and_develop_enhancing_our_ability_to_understand_ourselves_and_our_motivations_and_to_learn_more_about_our_own_values_helps_us_take_the_power_away_from_the_distractions_of_our_modern_fast_paced_lives_and_instead_refocus_on_fulfillment_wood_2013"
+        android:textSize="20dp"
+        android:layout_below="@+id/importance"
+        android:textStyle="bold"
+        android:layout_margin="30dp"
+        android:gravity="center"
+        android:justificationMode="inter_word"/>
+
+</RelativeLayout>

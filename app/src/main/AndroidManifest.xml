@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.myapplicationquizapp">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Self-Introspection"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MyApplicationQuizApp"
+        android:usesCleartextTraffic="true">
+        <activity
+            android:name=".importance"
+            android:exported="true" />
+        <activity
+            android:name=".KnowAbout"
+            android:exported="true" />
+        <activity
+            android:name=".VariousQuizzes2"
+            android:exported="true" />
+        <activity
+            android:name=".Login_Form"
+            android:exported="true" />
+        <activity
+            android:name=".SignUp_Form"
+            android:exported="true" />
+        <activity
+            android:name=".QuizActivity"
+            android:exported="true" />
+        <activity
+            android:name=".QuestionLibrary"
+            android:exported="true"
+            tools:ignore="Instantiatable" />
+        <activity
+            android:name=".LoginPage"
+            android:exported="true" >
+            <intent-filter>
+                  <action android:name="android.intent.action.MAIN" />
+
+                  <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        </application>
+
+</manifest>
+

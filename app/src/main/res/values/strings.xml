@@ -1,0 +1,33 @@
+<resources>
+    <!--All the string resources come here including Questions and title -->
+    <string name="app_name">GFG | HOW WELL DO YOU KNOW SIMRAN?</string>
+    <string name="correct"><b>CORRECTNESS IS</b> \n
+						<b>%1$d</b> OUT OF 6</string>
+    <string name="true_text">true</string>
+    <string name="false_text">false</string>
+    <string name="correct_answer">That\'s correct</string>
+    <string name="wrong_answer">That\'s incorrect</string>
+    <string name="a">Simran loves Chocolates.</string>
+    <string name="b">Simran Knows Following Skills:\n \t
+					<b>Ballet</b>\n \t
+					<b>HipHop</b></string>
+    <string name="c">Do You Think Simran Believes In:\n \t
+					<b>Luck!!!</b></string>
+    <string name="d">Do You Think Simran Wants To Visit <b>Italy</b></string>
+    <string name="e">Simran Loves Loyalty.</string>
+    <string name="f">Simran Sleeps Less</string>
+    <string name="next_text">next</string>
+    <string name="prev_text">previous</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="gender">Gender:</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="register">Register</string>
+    <string name="user_name">User Name</string>
+    <string name="full_name">Full Name</string>
+    <string name="login">login</string>
+    <string name="introspection_can_be_practiced_both_as_an_informal_reflection_process_and_a_formal_experimental_approach_and_the_two_have_different_definitions_still_both_processes_can_be_undertaken_by_anyone_with_curiosity_and_determination_cherry_2016_the_informal_reflection_process_can_be_defined_as_examining_one_s_own_internal_thoughts_and_feelings_and_reflecting_on_what_they_mean_the_process_can_be_focused_on_either_one_s_current_mental_experience_or_mental_experiences_from_the_very_recent_past_the_formal_experimental_technique_is_a_more_objective_and_standardized_version_of_this_in_which_people_train_themselves_to_carefully_analyze_the_contents_of_their_own_thoughts_in_a_way_that_s_as_unbiased_as_possible_the_original_idea_of_introspection_was_developed_by_wilhelm_wundt_in_the_late_1800s_mcleod_2008_wundt_focused_on_three_areas_of_mental_functioning_thoughts_images_and_feelings_wundt_s_work_eventually_led_to_the_current_work_on_perceptual_processes_and_the_establishment_of_the_field_of_cognitive_psychology">Introspection can be practiced both as an informal reflection process and a formal experimental approach, and the two have different definitions. Still, both processes can be undertaken by anyone with curiosity and determination (Cherry, 2016). The informal reflection process can be defined as examining one’s own internal thoughts and feelings and reflecting on what they mean. The process can be focused on either one’s current mental experience or mental experiences from the very recent past. The formal experimental technique is a more objective and standardized version of this, in which people train themselves to carefully analyze the contents of their own thoughts in a way that’s as unbiased as possible. The original idea of introspection was developed by Wilhelm Wundt in the late 1800s (McLeod, 2008). Wundt focused on three areas of mental functioning: thoughts, images, and feelings. Wundt’s work eventually led to the current work on perceptual processes and the establishment of the field of cognitive psychology.</string>
+    <string name="so_why_is_introspection_important_researchers_have_shown_that_we_think_more_than_50_000_thoughts_per_day_of_which_more_than_half_are_negative_and_more_than_90_are_just_repeats_from_the_day_before_wood_2013_if_you_don_t_make_the_time_and_effort_to_refocus_your_mind_on_the_positive_through_introspection_you_won_t_give_yourself_the_opportunity_to_grow_and_develop_enhancing_our_ability_to_understand_ourselves_and_our_motivations_and_to_learn_more_about_our_own_values_helps_us_take_the_power_away_from_the_distractions_of_our_modern_fast_paced_lives_and_instead_refocus_on_fulfillment_wood_2013">So, why is introspection important? Researchers have shown that we think more than 50,000 thoughts per day, of which more than half are negative and more than 90% are just repeats from the day before (Wood, 2013). If you don’t make the time and effort to refocus your mind on the positive through introspection, you won’t give yourself the opportunity to grow and develop. Enhancing our ability to understand ourselves and our motivations and to learn more about our own values helps us take the power away from the distractions of our modern, fast-paced lives and instead refocus on fulfillment (Wood, 2013).</string>
+
+</resources>
